@@ -1,0 +1,9 @@
+id,name,age,salary,employed,join_date
+1, Alice, 30, 50000.0, True, 2021-01-15
+2, Bob,  , , False, 2020-06-10
+3, Charlie, Twenty-Five, 45000.5, TRUE, 2021-03-22
+4, David, 40, Five Thousand, False, 2022-08-05
+5, Eve, 29, 52000.0, TRUE, 
+6, Frank, 35, , maybe, 2023-07-11
+7, Grace , , 61000.0, FALSE, 2022-01-10
+8, Hannah, 42, 49000, , 2021-09-19
