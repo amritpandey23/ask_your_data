@@ -24,6 +24,10 @@ Insight generation tool helps you to generate insights/ draw graphs and charts o
 
 ![](./static/working.png)
 
+## Gemini Prompt
+
+[Prompt Link](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221o6OrTgA7VzKNevyk81UZZaRxz-IYQM_-%22%5D,%22action%22:%22open%22,%22userId%22:%22109122240227568426747%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
 ## License
 
 MIT
