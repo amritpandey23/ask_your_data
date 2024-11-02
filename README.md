@@ -1,4 +1,4 @@
-# Insights generation tool using GenAI
+# Simple insight generation tool using GenAI
 
 > Caution: This is a hobby project! The code is poorly rewritten.
 
@@ -6,7 +6,7 @@ Powered by Google's Gemini 1.5 Flash.
 
 ## What?
 
-Insight generation tool helps you to generate insights/ draw graphs and charts on the CSV file provided by you.
+This tool simply helps you ask questions and generate surface-level insights or draw graphs and charts on the CSV data provided by you.
 
 ## Screenshots
 
